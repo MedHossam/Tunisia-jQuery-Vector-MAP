@@ -5,9 +5,9 @@ This project is based on [JQVMap](https://github.com/manifestinteractive/jqvmap)
 
 This project is only for the Tunisia Regions MAP
 
-Previews
+Preview
 ======
-<img src="https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/preview.jpg"/>
+<img src="http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/preview.jpg"/>
 
 Feel free to try to map [HERE](http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/).
 
