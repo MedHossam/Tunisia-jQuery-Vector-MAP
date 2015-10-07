@@ -1,10 +1,17 @@
+#Facebook Notifs Anywhere
 ![JQVMap](http://jqvmap.com/img/logo.png "JQVMap")
 
 This project is based on [JQVMap](https://github.com/manifestinteractive/jqvmap). So you can have a full documentation at their git repository.
 
 This project is only for the Tunisia Regions MAP
 
-jQuery Vector Map
+Previews
+======
+<img src="https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/preview/preview.jpg"/>
+
+Feel free to try to map [HERE](http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/).
+
+How To Use
 ======
 
 To get started, all you need to do is include the JavaScript and CSS files for the map you want to load.  Here is a sample HTML page for loading the World Map with default settings:
