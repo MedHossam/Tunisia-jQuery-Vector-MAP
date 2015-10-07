@@ -173,7 +173,7 @@ Callback function which will be called when the user clicks the region path. Cou
 
 #Copyright
 
-Licensed under the MIT and GPL license
+All code in this Github Repository are available under both the MIT and GPL license
 
 Copyright © 2015 CreaGen (Creative Generation)
 
