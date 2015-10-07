@@ -50,11 +50,11 @@ While initializing a map you can provide parameters to change its look and feel.
 		borderWidth: 1,
 		color: '#f4f3f0',
 		enableZoom: true,
-		hoverColor: '#c9dfaf',
+		hoverColor: '#C9DFAF',
 		hoverOpacity: null,
 		normalizeFunction: 'linear',
 		scaleColors: ['#b6d6ff', '#005ace'],
-		selectedColor: '#c9dfaf',
+		selectedColor: '#C9DFAF',
 		selectedRegion: null,
 		showTooltip: true,
 		onRegionClick: function(element, code, region) {
@@ -70,11 +70,13 @@ While initializing a map you can provide parameters to change its look and feel.
 Configuration Settings
 ------
 
-**map** *'world_en'*
+**map** *'tn_regions_fr'*
 
-Map you want to load. Must include the javascript file with the name of the map you want. Available maps with this library are world_en, usa_en, europe_en and germany_en
+The Map you want to load. Must include the javascript file with the name of the map you want. 
+There are many maps available with this library, but in this project the only map available is 'tn_regions_fr', 
+it will be other libraries available in other languages. (e.g. tn_regions_ar, tn_regions_en, etc.)
 
-**backgroundColor** *'#a5bfdd'*
+**backgroundColor** *'#7EA4D0'*
 
 Background color of map container in any CSS compatible format.
 
@@ -82,9 +84,9 @@ Background color of map container in any CSS compatible format.
 
 Border Color to use to outline map objects
 
-**borderOpacity** *0.5*
+**borderOpacity** *0.75*
 
-Border Opacity to use to outline map objects ( use anything from 0-1, e.g. 0.5, defaults to 0.25 )
+Border Opacity to use to outline map objects ( use anything from 0-1, e.g. 0.5, defaults is 0.25 )
 
 **borderWidth** *3*
 
@@ -100,9 +102,9 @@ Colors of individual map regions. Keys of the colors objects are country codes a
 
 **enableZoom** *boolean*
 
-Whether to Enable Map Zoom ( true or false, defaults to true)
+Whether to Enable Map Zoom ( true or false, defaults is true)
 
-**hoverColor** *'#c9dfaf'*
+**hoverColor** *'#C9DFAF'*
 
 Color of the region when mouse pointer is over it.
 
@@ -118,9 +120,9 @@ This function can be used to improve results of visualizations for data with non
 
 This option defines colors, with which regions will be painted when you set option values. Array scaleColors can have more then two elements. Elements should be strings representing colors in RGB hex format.
 
-**selectedRegion** *'mo'*
+**selectedRegion** *'TN-TN'*
 
-This is the Region that you are looking to have preselected ( 'TN-' suffixed with two letter ISO code, defaults to null )
+This is the Region that you are looking to have preselected ( 'TN-' suffixed with two letters ISO code, defaults is null )
 
 	TUNISIA
 	------------------------------
@@ -151,7 +153,7 @@ This is the Region that you are looking to have preselected ( 'TN-' suffixed wit
 	
 **showTooltip** *boolean*
 
-Whether to show Tooltips on Mouseover ( true or false, defaults to true)
+Whether to show Tooltips on Mouseover ( true or false, defaults is true)
 
 **onLabelShow** *function(event, label, code)*
 
@@ -171,8 +173,10 @@ Callback function which will be called when the user clicks the region path. Cou
 
 #Copyright
 
-Licensed under the MIT license
+Licensed under the MIT and GPL license
 
 Copyright © 2015 CreaGen (Creative Generation)
 
-See [LICENSE](https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/LICENSE.md) for details.
+See [Tunisia Map LICENSE](https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/LICENSE.md) for details.
+
+See [jQVMap LICENSE](https://github.com/manifestinteractive/jqvmap/blob/stable/LICENSE) for details.
