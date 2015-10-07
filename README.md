@@ -9,7 +9,7 @@ Preview
 ======
 <img src="http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/preview.jpg"/>
 
-Feel free to try to map [HERE](http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/).
+Feel free to try the map [HERE](http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/).
 
 How To Use
 ======
