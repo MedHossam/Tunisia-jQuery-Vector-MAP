@@ -1,4 +1,4 @@
-#Facebook Notifs Anywhere
+#Tunisia jQuery Vector MAP
 ![JQVMap](http://jqvmap.com/img/logo.png "JQVMap")
 
 This project is based on [JQVMap](https://github.com/manifestinteractive/jqvmap). So you can have a full documentation at their git repository.
@@ -7,7 +7,7 @@ This project is only for the Tunisia Regions MAP
 
 Previews
 ======
-<img src="https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/preview/preview.jpg"/>
+<img src="https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/preview.jpg"/>
 
 Feel free to try to map [HERE](http://medhossam.github.io/Tunisia-jQuery-Vector-MAP/).
 
