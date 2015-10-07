@@ -168,3 +168,11 @@ Callback function which will be called when the mouse cursor leaves the region p
 **onRegionClick** *function(event, code, region)*
 
 Callback function which will be called when the user clicks the region path. Country code will be passed to the callback as argument. This callback may be called while the user is moving the map. If you need to distinguish between a "real" click and a click resulting from moving the map, you can inspect **$(event.currentTarget).data('mapObject').isMoving**.
+
+#Copyright
+
+Licensed under the MIT license
+
+Copyright © 2015 CreaGen (Creative Generation)
+
+See [LICENSE](https://github.com/MedHossam/Tunisia-jQuery-Vector-MAP/blob/gh-pages/LICENSE.md) for details.
